@@ -1,5 +1,4 @@
 ## Hi, I'm Yashesha 👋
-Bioengineer who codes
 
 🐻 M.S. @ UC Berkeley 
 🐌 UC Santa Cruz Alumni  
