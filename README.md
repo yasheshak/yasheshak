@@ -1,6 +1,6 @@
 ## Hi, I'm Yashesha 👋
 
-🐻 M.S. @ UC Berkeley 
+🐻 M.S. @ UC Berkeley     
 🐌 UC Santa Cruz Alumni  
 
 🌉 Based in the Bay Area
