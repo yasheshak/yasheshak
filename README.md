@@ -6,7 +6,7 @@ Bioengineer who codes
 
 🌉 Based in the Bay Area
 
-🌱 Currently learning advanced ML, complex mathematical modeling and simulations, software engineering, and high-performance computing
+🌱 Currently learning advanced ML, complex mathematical modeling and simulations, software engineering, and high-performance computing       
 🧪 Experienced in bioinformatics, genomics, proteomics, drug development, signal processing, LLM training, data analysis, and process engineering
 
 💼 Seeking roles in computational biology, AI safety, software/data engineering 
