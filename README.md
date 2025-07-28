@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Yashesha 👋
+Bioengineer who codes
 
-<!--
-**yasheshak/yasheshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐻 M.S. Student @ UC Berkeley (Software Engineering & Molecular Science)  
+🐌 UC Santa Cruz Alumni (Biomolecular Engineering and Bioinformatics)
+🌉 Based in the Bay Area
 
-Here are some ideas to get you started:
+🌱 Currently learning advanced ML, complex mathematical modeling and simulations, software engineering, and high-performance computing
+💼 Seeking roles in computational biology, AI safety, software/data engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Experienced in bioinformatics, genomics, proteomics, drug development, signal processing, LLM training, data analysis, and process engineering
+
+💬 Ask me about anything!
+📫 How to reach me yasheshak1@gmail.com
+
+### 💻 Tech Stack  
+`Python` `R` `SQL` `C++` `Docker` `AWS` `GCP` `NumPy` `SciPy` `BioPython`   `pandas` `PyTorch` `scikit-learn` `Bash`
+
