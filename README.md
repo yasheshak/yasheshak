@@ -5,7 +5,7 @@
 
 🌉 Based in the Bay Area
 
-🌱 Learning ML/AI development, scientific computing, and HPC 
+🌱 Learning ML/AI development, scientific computing, and HPC      
 🧪 Experienced in research, bioinformatics, signal processing, and LLM growth 
 
 💬 Ask me about anything!
